@@ -13,7 +13,9 @@
 ## 💻 Some of my code
 |**Project**|**Description**|
 |:----------|:----|
-| 🌍 [Astro Pi](https://github.com/bestemic/AstroPi_MissionSpaceLab_2018-19) | The winning project in the Astro Pi Mission Space Lab competition whose purpose was to study the effects of global warming on changes in the coastline. |
-<!-- | col 2 is |    centered   |
-| col 3 is | right-aligned |
-     -->
+| 🌍 [Astro Pi](https://github.com/bestemic/AstroPi_MissionSpaceLab_2018-19) | Winning project in the Astro Pi Mission Space Lab competition. |
+| 📝 [ToDo App](https://github.com/bestemic/todo-app) | Work in progress. First bigger Java and Spring project. |
+| 🌐 [Dynamic web app](https://github.com/bestemic/dynamic-project-TechnikiWWW) | My first fullstack js application. |
+| ⚓ [Battleship](https://github.com/bestemic/shipbattles-project-JezykPython) | A ship game made as a Python final project |
+| ➗ [ONP Calculator](https://github.com/bestemic/onpcalculator-project-JezykC) | Simple calculator mada as a C final project |
+
