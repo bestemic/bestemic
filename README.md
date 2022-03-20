@@ -10,4 +10,10 @@
 - 📚 [Reader](https://lubimyczytac.pl/profil/2078277/bestemic) of fantasy and action books.
 - 🐱 Cat lover.
 
-<!-- ## 💻 Some of my code -->
+## 💻 Some of my code
+|**Project**|**Description**|
+|:----------|:----|
+| 🌍 [Astro Pi](https://github.com/bestemic/AstroPi_MissionSpaceLab_2018-19) | The winning project in the Astro Pi Mission Space Lab competition whose purpose was to study the effects of global warming on changes in the coastline. |
+<!-- | col 2 is |    centered   |
+| col 3 is | right-aligned |
+     -->
