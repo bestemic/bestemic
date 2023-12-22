@@ -2,11 +2,10 @@
 <h3 align="center">I'm a student and programming passionate.</h3>
 
 ## 🙋‍♂️ About Me
-- 🎓 Third year Applied Computer Science at Jagiellonian University.
+- 🎓 Fourth year Applied Computer Science at Jagiellonian University.
 - 🎮 Member of Gamedev Students Association students club.
 - 🚀 Former member of Apple Pi
-- 🌱 I’m currently learning Java and Spring framework.
-- 📚 [Reader](https://lubimyczytac.pl/profil/2078277/bestemic) of fantasy and action books.
+- 🌱 I’m currently working with GCP data processing pipelines.
 
 ## 💻 Some of my code
 |**Project**|**Description**|
