@@ -1,28 +1,26 @@
-<h1 align="center">Hi 👋, I'm Przemek Pawlik</h1>
-<h3 align="center">I'm a student and programming passionate.</h3>
+<h1 style="text-align:center">Hello, I'm Przemek Pawlik</h1>
+<h3 style="text-align:center">Software Developer and Technology Enthusiast</h3>
 
-## 🙋‍♂️ About Me
-- 🎓 Fourth year Applied Computer Science at Jagiellonian University.
-- 🎮 Member of Gamedev Students Association students club.
-- 🚀 Former member of Apple Pi
-- 🌱 I’m currently working with GCP data processing pipelines.
+## About Me
 
-## 💻 Some of my code
-|**Project**|**Description**|
-|:----------|:----|
-| 🌍 [Astro Pi](https://github.com/bestemic/AstroPi_MissionSpaceLab_2018-19) | Winning project in the Astro Pi Mission Space Lab competition. |
-| 📝 [ToDo App](https://github.com/bestemic/todo-app) | Work in progress. First bigger Java and Spring project. |
-| 🌐 [Dynamic web app](https://github.com/bestemic/dynamic-project-TechnikiWWW) | My first fullstack React.js and Node.js application. |
-| ⚓ [Battleship](https://github.com/bestemic/shipbattles-project-JezykPython) | A ship game made as a Python final project |
-| ➗ [ONP Calculator](https://github.com/bestemic/onpcalculator-project-JezykC) | Simple calculator mada as a C final project |
+- 🎓 Graduated with a Master's degree in Applied Computer Science from Jagiellonian University.
+- 🌱 Currently working professionally on creating data processing pipelines utilizing technologies available on Google
+  Cloud Platform.
+- 💡 Deeply interested in application architecture and system design, with a current focus on exploring microservices. I
+  am particularly drawn to understanding and implementing scalable, modular solutions that align with modern software
+  development practices. I also take interest in efficient data processing, system optimization, and designing scalable
+  architectures for handling large-scale data.
 
-<h3>
-<details>
-  <summary> :zap: GitHub Stats</summary>
-
-  <img align="left" alt="bestemic GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bestemic&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestemic&layout=compact&langs_count=10&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide=Jupyter%20Notebook" />
-
-</details>
-</h3>
+<div style="text-align:center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=bestemic&show_icons=true&theme=dark&count_private=true&include_all_commits=true&title_color=FF652F&icon_color=FFE400&hide_border=false&custom_title=Przemek%20Pawlik%20GitHub%20Stats"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=bestemic&show_icons=true&count_private=true&include_all_commits=true&title_color=FF652F&icon_color=FF652F&hide_border=false&custom_title=Przemek%20Pawlik%20GitHub%20Stats"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=bestemic&show_icons=true&count_private=true&include_all_commits=true&title_color=FF652F&icon_color=FF652F&hide_border=false&custom_title=Przemek%20Pawlik%20GitHub%20Stats" alt="Przemek Pawlik GitHub Stats" />
+  </picture>
+</div>
