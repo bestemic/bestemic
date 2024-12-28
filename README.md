@@ -1,5 +1,5 @@
-<h1 style="text-align:center">Hello, I'm Przemek Pawlik</h1>
-<h3 style="text-align:center">Software Developer and Technology Enthusiast</h3>
+<h1 align="center">Hello, I'm Przemek Pawlik</h1>
+<h3 align="center">Software Developer and Technology Enthusiast</h3>
 
 ## About Me
 
@@ -11,7 +11,7 @@
   development practices. I also take interest in efficient data processing, system optimization, and designing scalable
   architectures for handling large-scale data.
 
-<div style="text-align:center">
+<div align="center">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=bestemic&show_icons=true&theme=dark&count_private=true&include_all_commits=true&title_color=FF652F&icon_color=FFE400&hide_border=false&custom_title=Przemek%20Pawlik%20GitHub%20Stats"
